@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/c350c389-f6d2-4b9a-817d-459946ef1e52/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Bookstore-Simmons-backend",
+  "appService.deploySubpath": "backend/mission11.API/publish"
+}
